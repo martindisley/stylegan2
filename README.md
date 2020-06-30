@@ -1,11 +1,3 @@
-## INSTALL
-```
-git clone https://github.com/dvschultz/stylegan2
-cd stylegan2
-bash ./easy-install.sh
-```
-This repo adds an easy install script to install dependencies and install pkl files that might hit rate limits from the original repo. It also includes some new image generation functions.
-
 ## StyleGAN2 &mdash; Official TensorFlow Implementation
 
 ![Teaser image](./docs/stylegan2-teaser-1024x256.png)
